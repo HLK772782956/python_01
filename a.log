@@ -1,0 +1,32 @@
+2022-05-30 10:46:13.146 | DEBUG    | __main__:<module>:18 - 这是一条debug日志
+2022-05-30 10:46:13.147 | INFO     | __main__:<module>:19 - 这是一条info日志
+2022-05-30 10:46:13.147 | WARNING  | __main__:<module>:20 - 这是一条warning日志
+2022-05-30 10:46:13.147 | SUCCESS  | __main__:<module>:21 - 这是一条success日志
+2022-05-30 10:46:13.147 | ERROR    | __main__:<module>:22 - 这是一条error日志
+2022-05-30T10:51:43.509624+0800 DEBUG demo.loguru日志 18 这是一条debug日志
+2022-05-30T10:51:43.509624+0800 INFO demo.loguru日志 19 这是一条info日志
+2022-05-30T10:51:43.509624+0800 WARNING demo.loguru日志 20 这是一条warning日志
+2022-05-30T10:51:43.509624+0800 SUCCESS demo.loguru日志 21 这是一条success日志
+2022-05-30T10:51:43.509624+0800 ERROR demo.loguru日志 22 这是一条error日志
+2022-05-30 at 10:52:55 DEBUG demo.loguru日志 18 这是一条debug日志
+2022-05-30 at 10:52:55 INFO demo.loguru日志 19 这是一条info日志
+2022-05-30 at 10:52:55 WARNING demo.loguru日志 20 这是一条warning日志
+2022-05-30 at 10:52:55 SUCCESS demo.loguru日志 21 这是一条success日志
+2022-05-30 at 10:52:55 ERROR demo.loguru日志 22 这是一条error日志
+2022-05-30 at 10:56:21 DEBUG demo.loguru日志 18 这是一条debug日志
+2022-05-30 at 10:56:21 INFO demo.loguru日志 19 这是一条info日志
+2022-05-30 at 10:56:21 WARNING demo.loguru日志 20 这是一条warning日志
+2022-05-30 at 10:56:21 SUCCESS demo.loguru日志 21 这是一条success日志
+2022-05-30 at 10:56:21 ERROR demo.loguru日志 22 这是一条error日志
+2022-05-30 at 10:56:21 INFO demo.loguru日志 25 我的名字叫今天星期{}
+2022-05-30 at 11:10:03 DEBUG demo.loguru日志 18 这是一条debug日志
+2022-05-30 at 11:10:03 INFO demo.loguru日志 19 这是一条info日志
+2022-05-30 at 11:10:03 WARNING demo.loguru日志 20 这是一条warning日志
+2022-05-30 at 11:10:03 SUCCESS demo.loguru日志 21 这是一条success日志
+2022-05-30 at 11:10:03 ERROR demo.loguru日志 22 这是一条error日志
+2022-05-30 at 11:10:03 INFO demo.loguru日志 25 我的名字叫今天星期{}
+2022-05-30 at 11:10:23 DEBUG demo.loguru日志 18 这是一条debug日志
+2022-05-30 at 11:10:23 INFO demo.loguru日志 19 这是一条info日志
+2022-05-30 at 11:10:23 WARNING demo.loguru日志 20 这是一条warning日志
+2022-05-30 at 11:10:23 SUCCESS demo.loguru日志 21 这是一条success日志
+2022-05-30 at 11:10:23 ERROR demo.loguru日志 22 这是一条error日志
